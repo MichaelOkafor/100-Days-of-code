@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/100 Days of code.iml" filepath="$PROJECT_DIR$/.idea/100 Days of code.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/CodeRecap/.idea/CodeRecap.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/CodeRecap/.idea/CodeRecap.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/ThinkPython/.idea/ThinkPython.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/ThinkPython/.idea/ThinkPython.iml" />
     </modules>
   </component>
 </project>

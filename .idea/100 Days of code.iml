@@ -6,6 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ThinkPython" />
+    <orderEntry type="module" module-name="CodeRecap" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
